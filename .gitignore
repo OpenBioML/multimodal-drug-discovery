@@ -1,0 +1,12 @@
+**/__pycache__/
+**/*.ipynb_checkpoints
+**/*.egg-info
+*.pyc
+.pytest_cache/
+.mypy_cache/
+
+venv/
+models/
+notebooks/
+
+**/.DS_Store
